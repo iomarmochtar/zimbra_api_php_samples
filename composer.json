@@ -1,0 +1,13 @@
+{
+    "name": "mnt/mnt",
+    "authors": [
+        {
+            "name": "halo",
+            "email": "halo@mail.com"
+        }
+    ],
+    "require": {
+        "zimbra-api/soap-api": "*",
+        "vlucas/phpdotenv": "^5.3"  
+    }
+}
